@@ -44,17 +44,22 @@ Sigue estos pasos para instalar Visual Studio:
 
 2. **Ejecutar el instalador**:
    - Abre el archivo descargado y presiona "Continuar".
+   - ![Ejecucion de instalador](imagenes/vs1.png "TEjecucionl")
 
 3. **Seleccionar configuración**:
    - Marca la opción "Desarrollo de escritorio .NET".
+   - ![Ejecucion de instalador](imagenes/vs2.png "TEjecucionl")
    - En los componentes individuales, selecciona ".NET 6.0 Runtime".
+   - ![Ejecucion de instalador](imagenes/vs3.png "TEjecucionl")
    - Haz clic en "Instalar" para iniciar el proceso.
 
 4. **Esperar a que termine**:
    - Permite que el instalador complete la instalación.
+   - ![Ejecucion de instalador](imagenes/vs4.png "TEjecucionl")
 
 5. **Configuración final**:
    - Una vez instalado, selecciona un tema y presiona "Iniciar Visual Studio".
+   - ![Ejecucion de instalador](imagenes/vs5.png "TEjecucionl")
    - ¡Visual Studio estará listo para usarse!
 
 ---
