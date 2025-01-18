@@ -5,7 +5,7 @@
 Sigue estos pasos para instalar SQL Server en tu sistema:
 
 1. **Descargar el instalador de SQL Server**:
-   ![Ejecucion de instalador](imagenes/sql.png "TEjecucionl")
+   ![Ejecucion de instalador](imagenes/sql1.png "TEjecucionl")
 
    - Accede a la página oficial de [Descargas de SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
    - Haz clic en "Descargar ahora" bajo la opción **Developer**.
