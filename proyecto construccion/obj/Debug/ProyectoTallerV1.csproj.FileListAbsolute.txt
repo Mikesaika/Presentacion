@@ -1,0 +1,57 @@
+C:\Users\CEO\source\repos\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.exe.config
+C:\Users\CEO\source\repos\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.exe
+C:\Users\CEO\source\repos\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.pdb
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.AssemblyReference.cache
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.Properties.Resources.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerVehiculosV1.FrmCliente.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmConsultaOrdenesTrabajo.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmMecanico.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmOrdenTrabajo.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmRepuesto.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmServicio.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmTipoMantenimiento.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmVehiculo.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerVehiculosV1.UI.FrmMenuPrincipal.resources
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.GenerateResource.cache
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.CoreCompileInputs.cache
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.exe
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.pdb
+C:\Users\CEO\source\repos\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmAcercaDe.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.exe.config
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.exe
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.pdb
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.Properties.Resources.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmAcercaDe.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerVehiculosV1.FrmCliente.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmRepuesto.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmServicio.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmTipoMantenimiento.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerVehiculosV1.UI.FrmMenuPrincipal.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.exe
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.pdb
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmConsultaEstadosReparacion.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmTecnico.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmOrdenReparacion.resources
+C:\Users\user\source\repos\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmCelular.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.AssemblyReference.cache
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.exe
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.pdb
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.exe.config
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.exe
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\bin\Debug\ProyectoTallerV1.pdb
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.Properties.Resources.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmAcercaDe.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerVehiculosV1.FrmCliente.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmConsultaEstadosReparacion.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmTecnico.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmOrdenReparacion.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmRepuesto.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmServicio.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmTipoMantenimiento.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.UI.FrmCelular.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerVehiculosV1.UI.FrmMenuPrincipal.resources
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.GenerateResource.cache
+C:\Users\CEO\Downloads\ProyectoServicioTecnicoCelular\ProyectoTallerV1 (10)\ProyectoTallerV1\obj\Debug\ProyectoTallerV1.csproj.CoreCompileInputs.cache
